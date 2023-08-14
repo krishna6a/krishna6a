@@ -1,5 +1,4 @@
-![banner](https://github.com/krishna6a/krishna6a/assets/114436610/17294e26-5693-4a23-b876-728b6c3a24c0)
-
+![banner1](https://github.com/krishna6a/krishna6a/assets/114436610/ef753011-7ef6-49c4-a9cc-aeae1310e8d3)
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=krishna6a&label=Profile%20views&color=6805D3&style=flat" alt="krishna6a" />
