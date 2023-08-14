@@ -7,12 +7,8 @@
  </a>
 </p>
 
-
 <h1 align="center">Hi, I'm Krishna Agrawal 🧑🏻‍💻</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna6a" alt="krishna6a" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
